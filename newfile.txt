@@ -1,1 +1,5 @@
-I'm learning Git! Git is fun, I'm really git'ing the hang of it. 
+I'm learning Git! Git is fun
+
+I'm really git'ing the hang of it. 
+
+After staging, I needed to modify more so I did.
